@@ -1,8 +1,8 @@
 # modberrypakkris
 5 Modberry pak kris
 Token Thingsboard
-Modberry 1  = UxYFomiX3jl0jocdaM5N
-Modberry 2  = Z125tkg6JRYusiVbmdpw
-Modberry 3  = k9YqB6doWSKOZvKa0P5V
-Modberry 4  = waaZEQk3AC02pxAFFjRu
-Modberry 5  = EFlGDwQ13KvFY7oLxWnT
+Modberry 1  = O8Si5TC4suoSLRGxCtZb
+Modberry 2  = AXU4J3pijKJp1ndrBGFr
+Modberry 3  = BNA4nqmWg70oUp04M8Aw
+Modberry 4  = 9Dahqaqhp2K3ihpJNFP5
+Modberry 5  = x724BHc6mAi2LZV6NKgk
