@@ -11,3 +11,7 @@
 2. Thingsboard server
 - Hostname  = 153.92.5.95
 - Port      = 2883
+
+*Configuration Files Directory*
+1. Telegraf = /etc/telegraf/telegraf.conf
+2. Thingsboard = /etc/thingsboard-gateway/config/tb_gateway.yaml
